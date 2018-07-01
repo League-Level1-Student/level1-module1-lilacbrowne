@@ -1,5 +1,5 @@
 
-public class Duck2 {
+public class DuckRunner {
 public static void main(String[] args) {
 	Duck daffy = new Duck("donuts",5);
 	daffy.quack();
